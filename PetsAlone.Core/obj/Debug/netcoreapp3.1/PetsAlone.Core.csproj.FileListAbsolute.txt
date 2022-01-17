@@ -1,0 +1,33 @@
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.deps.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.runtimeconfig.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.runtimeconfig.dev.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.dll
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.pdb
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.AssemblyInfoInputs.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.AssemblyInfo.cs
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.csproj.CoreCompileInputs.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.dll
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.pdb
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.genruntimeconfig.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.deps.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.runtimeconfig.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.runtimeconfig.dev.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.dll
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.pdb
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.AssemblyInfoInputs.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.AssemblyInfo.cs
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.csproj.CoreCompileInputs.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.dll
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.pdb
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Copy\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.genruntimeconfig.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.deps.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.runtimeconfig.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.runtimeconfig.dev.json
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.dll
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\bin\Debug\netcoreapp3.1\PetsAlone.Core.pdb
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.AssemblyInfoInputs.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.AssemblyInfo.cs
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.csproj.CoreCompileInputs.cache
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.dll
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.pdb
+C:\Users\Beast\Downloads\sm-211129-1303-kgs-main - Latest\PetsAlone.Core\obj\Debug\netcoreapp3.1\PetsAlone.Core.genruntimeconfig.cache
